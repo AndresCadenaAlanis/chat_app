@@ -59,7 +59,9 @@ flutter_*.png
 linked_*.ds
 unlinked.ds
 unlinked_spec.ds
-
+*.css linguist-detectable=false
+*.js linguist-detectable=true
+*.java linguist-detectable=false
 # Android related
 **/android/**/gradle-wrapper.jar
 .gradle/
